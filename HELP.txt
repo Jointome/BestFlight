@@ -1,0 +1,16 @@
+﻿1 - compilaçao - escrever no terminal javac ArvoreDec.java 
+    
+NOTA: ArvoreDec.java deve estar no mesmo diretorio que Node.java
+
+2- execuçao - 
+Escolher o formato de entrada - escrever: 
+	-1 para imprimir a arvore de decisao
+   	      	       	 	    	      		
+	-2 para imprimir as classes
+					     		
+ escrever ficheiro de leitura completo 
+					      		 
+se escreveu 2 apos o passo acima devera escrever
+							 
+agora o ficheiro que contem os exemplos
+					      	    
